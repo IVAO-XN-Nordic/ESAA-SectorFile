@@ -1,6 +1,6 @@
-# ESAA Sector File for IVAO Aurora
+# BIRD Sector File for IVAO Aurora
 
-Welcome to the official repository for the ESAA FIR (Iceland, Greenland and Farao Islands Flight Information Region) sector file, designed specifically for IVAO's ATC radar client **Aurora**. This repository ensures up-to-date and accurate sector data for air traffic controllers operating within the ESAA airspace.
+Welcome to the official repository for the BIRD FIR (Iceland, Greenland and Farao Islands Flight Information Region) sector file, designed specifically for IVAO's ATC radar client **Aurora**. This repository ensures up-to-date and accurate sector data for air traffic controllers operating within the BIRD airspace.
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to the official repository for the ESAA FIR (Iceland, Greenland and Fara
 - **Comprehensive Airspace Layouts**: Includes all relevant controlled and uncontrolled airspace boundaries.
 - **Accurate Waypoints and Fixes**: Regularly updated to reflect the latest AIP data.
 - **SIDs and STARs**: Up-to-date standard instrument departure and arrival procedures.
-- **Airports and Runways**: Detailed data for all airports within the ESAA FIR.
+- **Airports and Runways**: Detailed data for all airports within the BIRD FIR.
 - **Restricted and Danger Areas**: Highlighted for easy reference.
 
 ---
@@ -25,10 +25,10 @@ Welcome to the official repository for the ESAA FIR (Iceland, Greenland and Fara
 
 1. Clone or download this repository to your computer:
    ```bash
-   git clone https://github.com/yourusername/ESAA-sector-file.git
+   git clone https://github.com/yourusername/BIRD-sector-file.git
    ```
 2. Place the downloaded files into the appropriate directory for Aurora.
-3. Launch Aurora and load the ESAA sector file.
+3. Launch Aurora and load the BIRD sector file.
 
 > **Note**: These installation steps are only applicable to pre-releases of the sector file. Pre-releases may contain incomplete features and should not be used during training, events, or exams. All full releases are to be downloaded directly via the Aurora client.
 
@@ -36,7 +36,7 @@ Welcome to the official repository for the ESAA FIR (Iceland, Greenland and Fara
 
 ## Contributing
 
-We welcome contributions to improve the ESAA sector file. If you'd like to contribute:
+We welcome contributions to improve the BIRD sector file. If you'd like to contribute:
 1. Fork this repository.
 2. Make your changes on a new branch.
 3. Submit a pull request with a clear description of the changes.
@@ -52,4 +52,4 @@ If you encounter any issues or have suggestions for improvement, please open an 
 ---
 
 **Contact**
-For further questions, feel free to reach out via the repository's issue tracker, email the ESAA FIR Chef or contact us via the XN Discord server
+For further questions, feel free to reach out via the repository's issue tracker, email the BIRD FIR Chef or contact us via the XN Discord server
