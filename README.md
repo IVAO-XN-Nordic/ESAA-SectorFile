@@ -1,6 +1,6 @@
 # ESAA Sector File for IVAO Aurora
 
-Welcome to the official repository for the ESAA FIR (Seden Flight Information Region) sector file, designed specifically for IVAO's ATC radar client **Aurora**. This repository ensures up-to-date and accurate sector data for air traffic controllers operating within the ESAA airspace.
+Welcome to the official repository for the ESAA FIR (Sweden Flight Information Region) sector file, designed specifically for IVAO's ATC radar client **Aurora**. This repository ensures up-to-date and accurate sector data for air traffic controllers operating within the ESAA airspace.
 
 ---
 
